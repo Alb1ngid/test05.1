@@ -15,6 +15,7 @@ class Human:
         self.age = age
 
 
+
 hum = Human('beka', 19)
 hum.name = 'beks'
 
