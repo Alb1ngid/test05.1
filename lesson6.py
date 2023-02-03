@@ -30,6 +30,7 @@ class Bank:
         else:
             raise ValueError(f'длина меньше 8см)')
 
+
     def __str__(self):
         return f'{self.name} {self._money}'
 
