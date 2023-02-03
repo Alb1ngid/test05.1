@@ -6,6 +6,7 @@ import colorama
 
 # mro порядок разрешения методов
 
+
 class Human:
     head = 1
 
